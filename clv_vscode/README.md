@@ -1,7 +1,5 @@
 # CLV Intelligence Platform
 
-**Team 6 — Aditi & Shreyas | BRD Project 5**
-
 An end-to-end AI platform for predicting Customer Lifetime Value, segmenting customers, recommending personalised offers, and answering business questions via a GenAI RAG chatbot — built with Python, Streamlit, scikit-learn, XGBoost, FAISS, Anthropic Claude, and MongoDB.
 
 ---
@@ -104,15 +102,10 @@ This automatically:
 ```powershell
 copy .env.example .env
 ```
-
-**Mac / Linux:**
-```bash
-cp .env.example .env
-```
-
 Open `.env` and fill in your keys:
 
 ```
+(OPTIONAL)
 ANTHROPIC_API_KEY=sk-ant-...your-key-here...
 MONGO_URI=mongodb+srv://username:password@cluster0.xxxxx.mongodb.net/CLV
 ```
@@ -162,7 +155,7 @@ streamlit run ui/app.py
 | `python models/train_models.py` | Train all ML models | Once (or to retrain) |
 | `python rag/build_index.py` | Build RAG vector index | Once (or to rebuild) |
 | `python seed_users.py` | Add default users to MongoDB | Once |
-| `python add_manager.py` | Add manager account | Once |
+| `python add_user.py` | Add manager account | Once |
 | `streamlit run ui/app.py` | Launch the dashboard | Every session |
 
 ---
@@ -172,10 +165,9 @@ streamlit run ui/app.py
 | Username | Password | Role | Access |
 |----------|----------|------|--------|
 | admin | admin123 | Admin | All 8 pages |
-| aditi | aditi123 | Admin | All 8 pages |
-| shreyas | shreyas123 | Admin | All 8 pages |
-| manager1 | manager123 | Manager | All pages except User Management restrictions |
-| viewer | view123 | Viewer | Dashboard + AI Advisor only |
+| marketingmanager1 | marketingmanager123 | MarketingManager | All pages except User Management restrictions |
+| productmanager1 | productmanager123 | ProductManager | All pages except User Management restrictions |
+| Analyst | analyst123 | Analyst | All pages except Offer Management restrictions |
 
 **Change passwords** from the User Management page after first login.
 
@@ -192,11 +184,9 @@ streamlit run ui/app.py
 | What-If Simulator | ✅ | ✅ | ❌ |
 | AI Advisor | ✅ | ✅ | ✅ |
 | Model Metrics | ✅ | ✅ | ❌ |
-| User Management | ✅ | ✅ | ❌ |
-| Add new users | ✅ | ❌ | ❌ |
-| Delete admin accounts | ✅ | ❌ | ❌ |
-| Delete manager accounts | ✅ | ❌ | ❌ |
-| Delete viewer accounts | ✅ | ✅ | ❌ |
+| Offer Management | ✅ | ✅ | ❌ |
+
+
 
 ---
 
