@@ -1,0 +1,114 @@
+[
+  {
+    "id": "offer_001",
+    "segment": "High",
+    "title": "Premium Rewards Credit Cards",
+    "description": "5% cashback on travel & dining",
+    "category": "Credit Card",
+    "active": true
+  },
+  {
+    "id": "offer_002",
+    "segment": "Medium",
+    "title": "Personal Loan Offer",
+    "description": "Low-interest personal loan up to \u00e2\u201a\u00b95L",
+    "category": "Loan",
+    "active": true
+  },
+  {
+    "id": "21798a95-a47a-49eb-ba99-8c12cada8034",
+    "segment": "High",
+    "title": " Premium Rewards Credit Card",
+    "description": "5% cashback on travel & dining, airport lounge access, zero forex markup, and complimentary concierge services.",
+    "category": "LifeStyle",
+    "active": true
+  },
+  {
+    "id": "733c6329-b1ba-4210-845a-f9725977dd78",
+    "segment": "Medium",
+    "title": "Cashback Upgrade Card",
+    "description": "2% cashback, milestone rewards, instant credit limit upgrade",
+    "category": "Credit Card",
+    "active": true
+  },
+  {
+    "id": "85932112-3ad7-4367-98ea-6e8beb94a98a",
+    "segment": "Low",
+    "title": "Starter Cashback Program",
+    "description": "\u20b9500 cashback after 5 transactions in 30 days",
+    "category": "Engagement Program",
+    "active": true
+  },
+  {
+    "id": "0b54ce85-c7d3-4437-8244-58c921941421",
+    "segment": "High",
+    "title": "Wealth Management Advisory Program",
+    "description": "Dedicated relationship manager, personalised investment planning, and access to exclusive wealth advisory services.",
+    "category": "Wealth Management",
+    "active": true
+  },
+  {
+    "id": "92ada1dc-ba1c-4818-b6ba-bb06f9d848c1",
+    "segment": "High",
+    "title": "Exclusive Low\u2011APR Loan",
+    "description": "Pre\u2011approved personal or home loans with preferential low interest rates and flexible repayment options.",
+    "category": "Loan",
+    "active": true
+  },
+  {
+    "id": "8e766a8b-672b-4708-aac0-e18e12726d6a",
+    "segment": "High",
+    "title": "Global Travel & Lifestyle Privileges",
+    "description": "Complimentary airport lounge access worldwide, premium hotel upgrades, travel insurance, and exclusive lifestyle rewards.",
+    "category": "Lifestyle",
+    "active": true
+  },
+  {
+    "id": "e5364029-7d51-42bb-a505-5b38ca8c0d3d",
+    "segment": "Medium",
+    "title": "Spend Booster Cashback Card",
+    "description": "Earn 3% cashback on monthly spends above \u20b925,000 with milestone rewards and bonus points.",
+    "category": "Credit Card",
+    "active": true
+  },
+  {
+    "id": "5bf1c8f3-be18-4ee0-98d8-713b296339c4",
+    "segment": "Medium",
+    "title": "Pre\u2011Approved Credit Limit Upgrade",
+    "description": "Instant credit limit upgrade with no documentation to support higher spending needs.",
+    "category": "Credit ",
+    "active": true
+  },
+  {
+    "id": "4048ad84-6a58-4e6b-aed4-2a70633e330a",
+    "segment": "Medium",
+    "title": "Relationship Upgrade Savings Program",
+    "description": "Higher interest rate savings account with bonus interest for maintaining quarterly balances.",
+    "category": "Savings",
+    "active": true
+  },
+  {
+    "id": "a051c6b5-b6de-498f-b506-346fb3543e4e",
+    "segment": "Low",
+    "title": "Transaction Activation Cashback",
+    "description": "Earn \u20b9300 cashback after completing 3 transactions within 30 days.",
+    "category": "Engagement Program",
+    "active": true
+  },
+  {
+    "id": "e1ebe172-c816-4ae5-ab70-42542e5a7f8e",
+    "segment": "Low",
+    "title": "Starter Credit Card Program",
+    "description": "Zero annual fee starter credit card with spend\u2011based rewards and easy approval.",
+    "category": "Credit Card",
+    "active": true
+  },
+  {
+    "id": "dc64c579-4b76-4d09-83b3-a02d1a8cd9f4",
+    "segment": "Low",
+    "title": "Financial Wellness & Rewards Program",
+    "description": "Free financial guidance with rewards for completing savings and budgeting milestones.",
+    "category": "Engagement Program",
+    "active": true
+  }
+]

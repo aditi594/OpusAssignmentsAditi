@@ -1,0 +1,77 @@
+[
+  {
+    "id": "biz_high",
+    "type": "analysis",
+    "title": "High-Value Customers",
+    "text": "High-value customers are in the top segment of predicted CLV and contribute a disproportionately large share of total revenue."
+  },
+  {
+    "id": "biz_medium",
+    "type": "analysis",
+    "title": "Medium-Value Customers",
+    "text": "Medium-value customers represent the largest growth opportunity and can be upgraded with engagement strategies."
+  },
+  {
+    "id": "biz_low",
+    "type": "analysis",
+    "title": "Low-Value Customers",
+    "text": "Low-value customers are new or inactive and are targeted with activation campaigns."
+  },
+  {
+    "id": "biz_rfm",
+    "type": "analysis",
+    "title": "RFM Model",
+    "text": "The RFM model evaluates recency, frequency, and monetary value to summarize customer behaviour."
+  },
+  {
+    "id": "ds_overview",
+    "type": "analysis",
+    "title": "Customer Base Overview",
+    "text": "The dataset contains 100000 customers. High-value customers represent 34.0%, Medium-value customers 33.0%, Low-value customers 33.0%."
+  },
+  {
+    "id": "biz_high",
+    "title": "High-Value Customers",
+    "text": "High-value customers are in the top 34% of predicted CLV and contribute roughly 60% of total revenue. They typically show high frequency, high spend, and long tenure."
+  },
+  {
+    "id": "biz_medium",
+    "title": "Medium-Value Customers",
+    "text": "Medium-value customers represent the largest growth opportunity. They can be upgraded through targeted offers and loyalty programs."
+  },
+  {
+    "id": "biz_low",
+    "title": "Low-Value Customers",
+    "text": "Low-value customers are often new or inactive. Activation strategies focus on onboarding, incentives, and engagement nudges."
+  },
+  {
+    "id": "biz_rfm",
+    "title": "RFM Model",
+    "text": "RFM evaluates customers using Recency, Frequency, and Monetary value to classify them into champions, loyal, and at-risk segments."
+  },
+  {
+    "id": "biz_budget",
+    "title": "Marketing Budget Strategy",
+    "text": "Recommended marketing budget allocation is 50% for high-value retention, 35% for medium-value upgrades, and 15% for low-value activation."
+  },
+  {
+    "id": "stats_global",
+    "title": "Global Customer Statistics",
+    "text": "Total customers in dataset: 100000. High-value customers: 34000. Medium-value customers: 33000. Low-value customers: 33000."
+  },
+  {
+    "id": "stats_high",
+    "title": "High-Value Customer Statistics",
+    "text": "High-value customers count 34000. Average CLV is $1352. Average frequency is 13.2 per month. Average recency is 85 days."
+  },
+  {
+    "id": "stats_medium",
+    "title": "Medium-Value Customer Statistics",
+    "text": "Medium-value customers count 33000. Average CLV is $219. Average frequency is 8.8 per month. Average recency is 100 days."
+  },
+  {
+    "id": "stats_low",
+    "title": "Low-Value Customer Statistics",
+    "text": "Low-value customers count 33000. Average CLV is $48. Average frequency is 6.7 per month. Average recency is 106 days."
+  }
+]

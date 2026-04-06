@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Why are high-value customers important for the business?",
+    "ground_truth": "High-value customers contribute a large portion of total lifetime revenue and have higher retention potential, making them critical for long-term profitability."
+  },
+  {
+    "question": "What factors influence Customer Lifetime Value in this project?",
+    "ground_truth": "Customer Lifetime Value is influenced by frequency of transactions, average and monthly spend, tenure, recency, and overall RFM behavior."
+  },
+  {
+    "question": "How is monthly revenue potential calculated?",
+    "ground_truth": "Monthly revenue potential is calculated by estimating monthly spend and adjusting it using segment-based reliability weights to provide a conservative revenue estimate."
+  },
+  {
+    "question": "Why is CLV-based segmentation preferred over income-based segmentation?",
+    "ground_truth": "CLV-based segmentation captures actual customer behavior and long-term value, while income alone does not indicate engagement or purchasing patterns."
+  },
+  {
+    "question": "What role does RFM play in CLV prediction?",
+    "ground_truth": "RFM summarizes customer recency, frequency, and monetary behavior, providing a behavioral signal that supports accurate CLV prediction."
+  }
+]
